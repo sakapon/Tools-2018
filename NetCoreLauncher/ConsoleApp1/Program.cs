@@ -6,7 +6,9 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello ConsoleApp1!");
+            Console.WriteLine("Press [Enter] key to exit.");
+            Console.ReadLine();
         }
     }
 }
